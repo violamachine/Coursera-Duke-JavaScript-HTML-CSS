@@ -56,8 +56,12 @@
           <li>Thing necessarily three</li>
                    </ol>
             </td>
-            
-                 
+        </table>
+            </div>
+        <div>
+          <p>So far, so good, phew.</p>
+        </div>
+        
                 
           
     
