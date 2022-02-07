@@ -1,5 +1,3 @@
-<head>
-</head>
 <body>
   <div>
     <h1>Welcome to the Violamachine.</h1>
