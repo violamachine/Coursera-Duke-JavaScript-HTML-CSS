@@ -1,3 +1,4 @@
+<!doctype html>
 <body>
   <div>
     <h1>Welcome to the Violamachine.</h1>
@@ -88,3 +89,7 @@
         </div>
   <div>
     <img src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad827c8e-4468-4b5a-8e4f-46b3149e75c9/d2nibff-9502a452-1ea9-4bdb-bf03-e87647f6ec94.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkODI3YzhlLTQ0NjgtNGI1YS04ZTRmLTQ2YjMxNDllNzVjOVwvZDJuaWJmZi05NTAyYTQ1Mi0xZWE5LTRiZGItYmYwMy1lODc2NDdmNmVjOTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SPk05VqFYdM13d6Yfhtr_DhQNt9Ht02TMToPYWLsw84" id="cakeImg"/>
+
+h1{text-align: center; color: blue;}
+.foodLi{color:green;}
+#cakeImg{float:right;}     
