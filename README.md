@@ -1,5 +1,4 @@
 <head>
-  <title>Welcome to the Violamachine</title>
 </head>
 <body>
   <div>
@@ -51,12 +50,15 @@
           <li>Thing not-necessarily-two</li>
           <li>Thing not-necessarily-three</li>
                 </ul>
+            </td>
                <td>
                   <ol>
           <li>Thing necessarily one</li>
           <li>Thing necessarily two</li>
           <li>Thing necessarily three</li>
                    </ol>
+            </td>
+            
                  
                 
           
