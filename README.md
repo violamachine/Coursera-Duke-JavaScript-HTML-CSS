@@ -10,7 +10,7 @@
         Begins with a single line of code?
       </div>
       <div>
-        <img width = "20%" src= "https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"> </img>
+        <img width = "10%" src= "https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"> </img>
       </div>
  <div>
         <a href="https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"> Source for this Confucius image here </a>
