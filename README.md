@@ -1,4 +1,3 @@
-# Coursera-Duke-JavaScript-HTML-CSS
 <head>
   <title>Welcome to the Violamachine</title>
 </head>
@@ -11,10 +10,17 @@
     <p>I sure am glad there's a <b>template</b>. I'm just trying to follow the semantics here, <em>nothing <b>fancy</b></em>.</p?
   </div>
     <div>
-      <h2>The Journey of a Thousand Miles...</h2>
+      <h3>The Journey of a Thousand Miles...</h3>
       <div>
         Begins with a single line of code?
       </div>
       <div>
-        <a href="https://www.istockphoto.com/photo/confucius-gm177305558-20346624?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=http%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fconfucius%2F&utm_term=confucius"> Insert Confucius here </a>
+        <a href="https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"width=200%> Insert Confucius Here </a>
       </body>
+      <div>
+        <h3> I feel like I'm in high school again!</h3>
+      </div>
+      <div>
+        <p> Learning new sheit for the very first time, finding images quick and dirty.</p>
+    
+     
