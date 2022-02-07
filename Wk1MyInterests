@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Coursera Duke wk 1 My Interests</title>
+  
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<head>
+  <title>Welcome to the Violamachine</title>
+</head>
+<body>
+  <div>
+    <h1>Welcome to the Violamachine.</h1>
+    <p>This is Alec Santamaria, professional violist and computer programming neophyte.</p>
+  </div>
+  <div>
+    <p>I sure am glad there's a template. I'm just trying to follow the semantics here, nothing fancy.</p?
+  </div>
+    <div>
+      <h2>The Journey of a Thousand Miles...</h2>
+      <div>
+        Begins with a single line of code?
+      </div>
+      </body>
+<!-- partial -->
+  
+</body>
+</html>
