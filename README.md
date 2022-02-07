@@ -1,8 +1,6 @@
 <body>
-  <div>
     <h1>Welcome to the Violamachine.</h1>
     <p>This is <b>Alec Santamaria</b>, professional violist and computer programming neophyte.</p>
-  </div>
   <div>
     <p>I sure am glad there's a <b>template</b>. I'm just trying to follow the semantics here, <em>nothing <b>fancy</b></em>.</p?
   </div>
@@ -12,7 +10,7 @@
         Begins with a single line of code?
       </div>
       <div>
-        <img width-"200%" src= "https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"/>
+        <img width="200%" src= "https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"> </img>
       </div>
  <div>
         <a href="https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"> Source for this Confucius image here </a>
