@@ -12,7 +12,10 @@
         Begins with a single line of code?
       </div>
       <div>
-        <a href="https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"width="200%"> Insert Confucius Here </a>
+        <img width-"200%" src= "https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"/>
+      </div>
+ <div>
+        <a href="https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"> Source for this Confucius image here </a>
       </div>
       </body>
       <div>
@@ -61,9 +64,3 @@
         <div>
           <p>So far, so good, phew.</p>
         </div>
-        
-                
-          
-    
-    
-     
