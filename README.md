@@ -15,7 +15,7 @@
         Begins with a single line of code?
       </div>
       <div>
-        <a href="https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"width=200%> Insert Confucius Here </a>
+        <a href="https://media.istockphoto.com/photos/-picture-id177305558?s=612x612"width="200%"> Insert Confucius Here </a>
       </body>
       <div>
         <h3> I feel like I'm in high school again!</h3>
